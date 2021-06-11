@@ -1,0 +1,13 @@
+List Configuration,# Data
+Sorted N = 500,1
+Sorted N = 1000,2
+Sorted N = 5000,3
+Sorted N = 10000,4
+Descending Sorted N = 500 ,5
+Descending Sorted N = 1000,6
+Descending Sorted N = 5000,7
+Descending Sorted N = 10000 ,8
+Random N = 500 ,9
+Random N = 1000 ,10
+Random N = 5000 ,11
+Random N = 10000 ,12
